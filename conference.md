@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /conference/index.html
-title: Conference
+permalink: /presentations/index.html
+title: Presentations
 ---
 
 > Lastest Update: 26th Feb 2024&nbsp; 
