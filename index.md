@@ -50,7 +50,27 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 3. **Board Gender Diversity and Corporate Carbon Emissions**: International Evidence (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 4. **Foreign Institutional Ownership and Corporate Carbon Emissions** (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2024, <font color='red'>major revision</font> at *Strategic Management Journal*.
 
+<br>
 
+---
+
+## References
+
+- Hua ZHANG, Professor of Finance
+Department of Finance, CUHK Business School, The Chinese University of Hong Kong
+hzhang@cuhk.edu.hk, (+852) 3943-7760
+
+- Yong (George) YANG, Professor of Accountancy and Director
+School of Accountancy, CUHK Business School, The Chinese University of Hong Kong
+yyong@cuhk.edu.hk, (+852) 3943-7255
+
+- Jie (Jay) CAO, Professor of Finance
+School of Accounting and Finance, The Hong Kong Polytechnic University
+jie.cao@polyu.edu.hk, (+852) 2766-7099
+
+- Xintong ZHAN, Li-Dasan Chair Professor of Finance
+School of Management, Fudan University
+xintongzhan@fudan.edu.cn, (+86) 21 2501-1205
 
 
 <br>
