@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teams/index.html
-title: Teams
+permalink: /conference/index.html
+title: Conference
 ---
 
 ## Motivation
