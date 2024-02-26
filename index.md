@@ -39,6 +39,24 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
+## Research Work
+
+- Publication
+1. **The Return Predictability of Carbon Emissions**: Evidence from Hong Kong and Singapore (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Paciffc-Basin Finance Journal*#* 82 (Special Issue), 102177.
+
+- Working Papers
+1. **Socially Responsible Investors and Stock Price Informativeness** (with George Yang, Xintong Zhan, and Weiming Zhang)
+2. **Opioid Epidemic and Implied Cost of Equity Capital** (with Jie Cao, Xintong Zhan, and Weiming Zhang)
+3. **Board Gender Diversity and Corporate Carbon Emissions**: International Evidence (with Jie Cao, Xintong Zhan, and Weiming Zhang)
+4. **Foreign Institutional Ownership and Corporate Carbon Emissions** (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2024, <font color='red'>major revision</font> at *Strategic Management Journal*.
+
+
+
+
+<br>
+
+---
+
 ## News and Updates
 
 - **Feb 2024:** My new personal website is established! Feel free to chat and collaborate with me!
