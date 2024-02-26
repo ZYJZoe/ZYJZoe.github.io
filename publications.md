@@ -4,9 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+> Lastest Update: 26th Feb 2024&nbsp; 
 
-## Conference Paper
+## Working Papers
 
 - [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Tozammel Hossain, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium/))<br>Vancouver, Canada. February, 2024. [Our Poster](https://caihanlin.com/mypaper/poster/poster_aaai24_BLEGuard.pdf).
 
@@ -18,7 +18,7 @@ title: Publications
 
 ## Journal Paper
 
-- Coming soon!
+- []
 
   <br>
 
