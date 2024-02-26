@@ -42,7 +42,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Work
 
 - Publication
-1. **The Return Predictability of Carbon Emissions**: Evidence from Hong Kong and Singapore (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Paciffc-Basin Finance Journal*#* 82 (Special Issue), 102177.
+1. **The Return Predictability of Carbon Emissions**: Evidence from Hong Kong and Singapore (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Paciffc-Basin Finance Journal* 82 (Special Issue), 102177.
 
 - Working Papers
 1. **Socially Responsible Investors and Stock Price Informativeness** (with George Yang, Xintong Zhan, and Weiming Zhang)
