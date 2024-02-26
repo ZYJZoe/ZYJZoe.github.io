@@ -8,14 +8,14 @@ title: Miscellaneous
 
 ## Conference snapshot
 
-I give an oral presentation in Chengdu.
+I give an oral presentation in Chengdu in 2023.
 
 <div>
 <img src="/images/chengdu.JPG">
 </div>
 <br>
 
-I give an oral presentation in Shanghai.
+I give an oral presentation in Shanghai in 2023. 
 
 <div>
 <img src="/images/shanghai.JPG">
