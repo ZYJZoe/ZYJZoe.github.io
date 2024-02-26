@@ -4,52 +4,22 @@ permalink: /conference/index.html
 title: Conference
 ---
 
-## Motivation
+## Selected Oral Presentations (# online,∗ by coauthor)
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the concept that one must become their own "boss" and setup their own business. In my heart, I firmly believe that I belong to the business world (maybe not the academic one).<br>
-
-## OpenIoT Team
-
-During undergraduate, my two roommates and I co-founded a tech group called **OpenIoT**. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over $20000 funding.<br>
-
-## Team News
-
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [Defender](https://fzuiot.site/) has been reported by [Youth of FZU (News)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, we welcome you to [join OpenIoT](https://fzuiot.site/english/).
-
+- Zhejiang University ∗ 2023
+- NYU Shanghai ∗ 2023
+- Shanghai University of Finance and Economics ∗ 2023
+- Shanghai Jiao Tong University - Antai College of Economics Management ∗ 2023
+- The Northern Finance Association Annual Conference 2023
+- FMA-Europe Conference 2023
+- The Chinese University of Hong Kong 2023
+- UN PRI Academic Network Conference ∗ 2023
+- The Hong Kong Polytechnic University #∗ 2022
+- IE Business School, IE University #∗ 2022
 <br>
 
----
+## Selected Poster Presentations (# online,∗ by coauthor)
 
-## Our Fundings
-
-- DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No.)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
-
-<br>
-
----
-
-## Some Group Photos
-
-> Our group website: https://fzuiot.site/
-
-<left>
-  <img src = "https://p.ipic.vip/l97lne.jpg">
-</left>
-
-
-<br>
-
-<div class="third">
-<img src="https://p.ipic.vip/3g1514.jpg">
-<img src="https://p.ipic.vip/9mnzf6.jpg">
-<img src="https://p.ipic.vip/04r3o2.jpg">
-</div>
-
-
-
+- The American Finance Association Ph.D. Student Poster Session 2024
 
 <br>
