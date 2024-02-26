@@ -8,18 +8,18 @@ title: Publications
 
 ## Working Papers
 
-- Socially Responsible Investors and Stock Price Informativeness (with George Yang, Xintong Zhan,and Weiming Zhang
+- Socially Responsible Investors and Stock Price Informativeness (with George Yang, Xintong Zhan,and Weiming Zhang)
 
 - Opioid Epidemic and Implied Cost of Equity Capital (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 
 - Board Gender Diversity and Corporate Carbon Emissions: International Evidence (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 
-- Foreign Institutional Ownership and Corporate Carbon Emissions (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2024, major revision at Strategic Management Journal.
+- Foreign Institutional Ownership and Corporate Carbon Emissions (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2024, <font color='red'>major revision</font> at *Strategic Management Journal*. 
 
 
   <br>
 
-## Journal Paper
+## Journal Papers
 
 - 1. [The return predictability of carbon emissions: Evidence from Hong Kong and Singapore](https://doi.org/10.1016/j.pacfin.2023.102177) (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Pacific-Basin Finance Journal 82 (Special Issue)*, 102177.<br>
 
