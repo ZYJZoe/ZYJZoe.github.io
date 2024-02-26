@@ -10,7 +10,7 @@ Here is **Yaojia Zhang (Zoe, 張堯迦)**.
 
 Hello! I am a fourth-year Finance Ph.D. Candidate at the Chinese University of Hong Kong (CUHK), [CUHK business school](https://www.bschool.cuhk.edu.hk/). I am primarily interested in Climate Finance, International Finance, ESG, and Accounting. I expect to graduate in July 2025. I earned my Bachelor's degree in Accounting (minor in Finance, First Class Honor) from CUHK. Prior to joining the Ph.D. program, I took several internships in the financial industry. Please feel free to chat with me!
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at zoezhang@link.cuhk.edu.hk
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <font color='blue'>zoezhang@link.cuhk.edu.hk</font>!
 
 ## Academic Background
 
@@ -56,21 +56,21 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## References
 
-- Hua ZHANG, Professor of Finance
-Department of Finance, CUHK Business School, The Chinese University of Hong Kong
-hzhang@cuhk.edu.hk, (+852) 3943-7760
+- **Hua ZHANG**, Professor of Finance<br>
+Department of Finance, CUHK Business School, The Chinese University of Hong Kong<br>
+<font color='blue'>hzhang@cuhk.edu.hk</font>, (+852) 3943-7760
 
-- Yong (George) YANG, Professor of Accountancy and Director
-School of Accountancy, CUHK Business School, The Chinese University of Hong Kong
-yyong@cuhk.edu.hk, (+852) 3943-7255
+- **Yong (George) YANG**, Professor of Accountancy and Director<br>
+School of Accountancy, CUHK Business School, The Chinese University of Hong Kong<br>
+<font color='blue'>yyong@cuhk.edu.hk</font>, (+852) 3943-7255
 
-- Jie (Jay) CAO, Professor of Finance
-School of Accounting and Finance, The Hong Kong Polytechnic University
-jie.cao@polyu.edu.hk, (+852) 2766-7099
+- **Jie (Jay) CAO**, Professor of Finance<br>
+School of Accounting and Finance, The Hong Kong Polytechnic University<br>
+<font color='blue'>jie.cao@polyu.edu.hk</font>, (+852) 2766-7099
 
-- Xintong ZHAN, Li-Dasan Chair Professor of Finance
-School of Management, Fudan University
-xintongzhan@fudan.edu.cn, (+86) 21 2501-1205
+- **Xintong ZHAN**, Li-Dasan Chair Professor of Finance<br>
+School of Management, Fudan University<br>
+<font color='blue'>xintongzhan@fudan.edu.cn</font>, (+86) 21 2501-1205
 
 
 <br>
