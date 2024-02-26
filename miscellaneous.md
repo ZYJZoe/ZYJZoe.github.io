@@ -18,7 +18,7 @@ I give an oral presentation in Chengdu in 2023.
 I give an oral presentation in Shanghai in 2023. 
 
 <div>
-<img src="/images/shanghai.JPG">
+<img src="/images/shanghai.jpg">
 </div>
 <br>
 
