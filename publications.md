@@ -21,9 +21,9 @@ title: Publications
 
 ## Journal Papers
 
-- 1. [The return predictability of carbon emissions: Evidence from Hong Kong and Singapore](https://doi.org/10.1016/j.pacfin.2023.102177) (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Pacific-Basin Finance Journal 82 (Special Issue)*, 102177.<br>
+1. [The return predictability of carbon emissions: Evidence from Hong Kong and Singapore](https://doi.org/10.1016/j.pacfin.2023.102177) (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Pacific-Basin Finance Journal 82 (Special Issue)*, 102177.<br>
 
-We examine the relationship between carbon emissions and future stock returns in Hong Kong and Singapore stock markets. Hong Kong-listed stocks with higher carbon emissions experience lower future stock returns. The pattern is driven by non-local stocks and is absent among local stocks. Carbon emissions do not predict future returns in Singapore, where most of listed stocks are local. Investors of non-local firms in Hong Kong underreact to the effect of carbon emissions on firm fundamentals and environmental incidents. Moreover, the return predictability is stronger among stocks with higher information asymmetry, fewer sophisticated investors, and higher arbitrage costs.
+<p style="text-align:justify; text-justify:inter-ideograph;"> We examine the relationship between carbon emissions and future stock returns in Hong Kong and Singapore stock markets. Hong Kong-listed stocks with higher carbon emissions experience lower future stock returns. The pattern is driven by non-local stocks and is absent among local stocks. Carbon emissions do not predict future returns in Singapore, where most of listed stocks are local. Investors of non-local firms in Hong Kong underreact to the effect of carbon emissions on firm fundamentals and environmental incidents. Moreover, the return predictability is stronger among stocks with higher information asymmetry, fewer sophisticated investors, and higher arbitrage costs.</p>
 
   <br>
 
