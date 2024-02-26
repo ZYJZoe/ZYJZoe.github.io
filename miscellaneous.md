@@ -11,15 +11,14 @@ title: Miscellaneous
 - I give an oral presentation in Chengdu in 2023.
 
 <div>
-<img src="/images/chengdu.JPG">
+<img src="/images/chengdu.JPG" width=60%>
 </div>
-<br>
 <br>
 
 - I give an oral presentation in Shanghai in 2023. 
 
 <div>
-<img src="/images/shanghai.jpg">
+<img src="/images/shanghai.jpg" width=60%>
 </div>
 <br>
 
