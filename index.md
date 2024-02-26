@@ -57,20 +57,16 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## References
 
 - **Hua ZHANG**, Professor of Finance<br>
-Department of Finance, CUHK Business School, The Chinese University of Hong Kong<br>
-<font color='blue'>hzhang@cuhk.edu.hk</font>, (+852) 3943-7760
+Department of Finance, CUHK Business School, The Chinese University of Hong Kong<br><font color='blue'>hzhang@cuhk.edu.hk</font>, (+852) 3943-7760
 
 - **Yong (George) YANG**, Professor of Accountancy and Director<br>
-School of Accountancy, CUHK Business School, The Chinese University of Hong Kong<br>
-<font color='blue'>yyong@cuhk.edu.hk</font>, (+852) 3943-7255
+School of Accountancy, CUHK Business School, The Chinese University of Hong Kong<br><font color='blue'>yyong@cuhk.edu.hk</font>, (+852) 3943-7255
 
 - **Jie (Jay) CAO**, Professor of Finance<br>
-School of Accounting and Finance, The Hong Kong Polytechnic University<br>
-<font color='blue'>jie.cao@polyu.edu.hk</font>, (+852) 2766-7099
+School of Accounting and Finance, The Hong Kong Polytechnic University<br><font color='blue'>jie.cao@polyu.edu.hk</font>, (+852) 2766-7099
 
 - **Xintong ZHAN**, Li-Dasan Chair Professor of Finance<br>
-School of Management, Fudan University<br>
-<font color='blue'>xintongzhan@fudan.edu.cn</font>, (+86) 21 2501-1205
+School of Management, Fudan University<br><font color='blue'>xintongzhan@fudan.edu.cn</font>, (+86) 21 2501-1205
 
 
 <br>
