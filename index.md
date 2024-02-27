@@ -15,7 +15,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Aug 2020 - July 2025:** The Chinese University of Hong Kong (Ph.D. in Finance and Accounting)
-- **Sep 2020 - July 2024:** The Chinese University of Hong Kong (B.B.A. in Professional Accountancy, Minor in Finance)
+- **Sep 2015 - July 2020:** The Chinese University of Hong Kong (B.B.A. in Professional Accountancy, Minor in Finance)
   <font color='red'>[First Class Honor]</font>
 - **Aug 2017 - Dec 2017:** The University of Miami (Exchange)
 - **May 2019 - May 2019:** Chicago Quantitative Alliance (CQA) Institute (Advanced Investment Management Course)
