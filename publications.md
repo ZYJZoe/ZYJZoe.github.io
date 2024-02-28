@@ -14,8 +14,7 @@ title: Publications
 
 - Board Gender Diversity and Corporate Carbon Emissions: International Evidence (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 
-- Foreign Institutional Ownership and Corporate Carbon Emissions (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2024, <font color='red'>major revision</font> at *Strategic Management Journal*. 
-
+- Foreign Institutional Ownership and Corporate Carbon Emissions (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 
   <br>
 

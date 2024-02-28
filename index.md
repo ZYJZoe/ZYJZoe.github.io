@@ -48,7 +48,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 1. **Socially Responsible Investors and Stock Price Informativeness** (with George Yang, Xintong Zhan, and Weiming Zhang)
 2. **Opioid Epidemic and Implied Cost of Equity Capital** (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 3. **Board Gender Diversity and Corporate Carbon Emissions**: International Evidence (with Jie Cao, Xintong Zhan, and Weiming Zhang)
-4. **Foreign Institutional Ownership and Corporate Carbon Emissions** (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2024, <font color='red'>major revision</font> at *Strategic Management Journal*.
+4. **Foreign Institutional Ownership and Corporate Carbon Emissions** (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 
 <br>
 
@@ -76,6 +76,5 @@ School of Management, Fudan University<br><font color='blue'>xintongzhan@fudan.e
 ## News and Updates
 
 - **Feb 2024:** My new personal website is established! Feel free to chat and collaborate with me!
-- **Feb 2024:** Our paper collaborates with Prof.Cao, Prof.Zhan, and Prof.Zhang got a major revision from the **Strategic Management Journal**!
 - **Jan 2024:** Very excited to give a poster presentation in [AFA-2024](https://afajof.org), see you in San Antonio!
 - **Dec 2023:** Our research paper **The return predictability of carbon emissions: Evidence from Hong Kong and Singapore** collaborates with Prof.Cao, Prof.Zhan, and Prof.Zhang is online in the **Pacific-Basin Finance Journal**!
