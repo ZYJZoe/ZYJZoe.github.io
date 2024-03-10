@@ -1,17 +1,6 @@
 ---
 layout: page
 ---
-
-# About Me
-
-<img src="https://zyjzoe.github.io/images/formal.jpg" class="floatpic" width="360" height="480">
-
-Here is **Yaojia Zhang (Zoe, 張堯迦)**.
-
-Hello! I am a fourth-year Finance Ph.D. Candidate at the Chinese University of Hong Kong (CUHK), [CUHK business school](https://www.bschool.cuhk.edu.hk/). I am primarily interested in Climate Finance, International Finance, ESG, and Accounting. I earned my Bachelor's degree in Accounting (minor in Finance, First Class Honor) from CUHK. Prior to joining the Ph.D. program, I took several internships in the financial industry. Please feel free to chat with me!
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <font color='blue'>zoezhang@link.cuhk.edu.hk</font>!
-
 ## Academic Background
 
 - **Aug 2020 - Present:** The Chinese University of Hong Kong (Ph.D. in Finance and Accounting)
@@ -41,34 +30,26 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Work
 
-- Publication
-1. **The Return Predictability of Carbon Emissions**: Evidence from Hong Kong and Singapore (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Paciffc-Basin Finance Journal* 82 (Special Issue), 102177.
-
 - Working Papers
 1. **Socially Responsible Investors and Stock Price Informativeness** (with George Yang, Xintong Zhan, and Weiming Zhang)
 2. **Opioid Epidemic and Implied Cost of Equity Capital** (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 3. **Board Gender Diversity and Corporate Carbon Emissions**: International Evidence (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 4. **Foreign Institutional Ownership and Corporate Carbon Emissions** (with Jie Cao, Xintong Zhan, and Weiming Zhang)
+– AFA Poster (2024), NFA (2023),  UN PRI Academic Network Conference (2023), FMA-Europe (2023)
+
+- Publication
+1. **The Return Predictability of Carbon Emissions**: Evidence from Hong Kong and Singapore (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Paciffc-Basin Finance Journal* 82 (Special Issue), 102177.
 
 <br>
 
 ---
 
-## References
+## Scholarships & Honors
 
-- **Hua ZHANG**, Professor of Finance<br>
-Department of Finance, CUHK Business School, The Chinese University of Hong Kong<br><font color='blue'>hzhang@cuhk.edu.hk</font>, (+852) 3943-7760
-
-- **Yong (George) YANG**, Professor of Accountancy and Director<br>
-School of Accountancy, CUHK Business School, The Chinese University of Hong Kong<br><font color='blue'>yyong@cuhk.edu.hk</font>, (+852) 3943-7255
-
-- **Jie (Jay) CAO**, Professor of Finance<br>
-School of Accounting and Finance, The Hong Kong Polytechnic University<br><font color='blue'>jie.cao@polyu.edu.hk</font>, (+852) 2766-7099
-
-- **Xintong ZHAN**, Li-Dasan Chair Professor of Finance<br>
-School of Management, Fudan University<br><font color='blue'>xintongzhan@fudan.edu.cn</font>, (+86) 21 2501-1205
-
-
+- Postgraduate Fellowship,The Chinese University of Hong Kong 2020-2024
+- CIMA Scholarship for CIMA Global Business Challenge, CIMA 2019
+- The Hong Kong Institute of Certified Public Accountants (HKICPA) Scholarship, HKICPA 2017
+- The Dean’s List, The Chinese University of Hong Kong Business School 2017
 <br>
 
 ---
