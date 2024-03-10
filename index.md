@@ -5,7 +5,7 @@ layout: page
 
 - **Aug 2020 - Present:** The Chinese University of Hong Kong (Ph.D. in Finance and Accounting)
 - **Sep 2015 - July 2020:** The Chinese University of Hong Kong (B.B.A. in Professional Accountancy, Minor in Finance)
-  [First Class Honor]
+  **[First Class Honor]**
 - **Aug 2017 - Dec 2017:** The University of Miami (Exchange)
 - **May 2019 - May 2019:** Chicago Quantitative Alliance (CQA) Institute (Advanced Investment Management Course)
 
