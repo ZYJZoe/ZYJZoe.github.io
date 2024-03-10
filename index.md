@@ -33,8 +33,8 @@ layout: page
 2. **Opioid Epidemic and Implied Cost of Equity Capital** (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 3. **Board Gender Diversity and Corporate Carbon Emissions**: International Evidence (with Jie Cao, Xintong Zhan, and Weiming Zhang)
 4. **Foreign Institutional Ownership and Corporate Carbon Emissions** (with Jie Cao, Xintong Zhan, and Weiming Zhang)
-– AFA Poster (2024), NFA (2023),  UN PRI Academic Network Conference (2023), FMA-Europe (2023)
-
+- AFA Poster (2024), NFA (2023),  UN PRI Academic Network Conference (2023), FMA-Europe (2023)
+<br>
 - Publication
 1. **The Return Predictability of Carbon Emissions**: Evidence from Hong Kong and Singapore (with Jie Cao, Xintong Zhan, and Weiming Zhang), 2023, *Paciffc-Basin Finance Journal* 82 (Special Issue), 102177.
 
@@ -44,13 +44,14 @@ layout: page
 
 ## Teaching Experience
 
-Teaching Assistant, CUHK Business School, The Chinese University of Hong Kong
-– Empirical Asset Pricing (PhD)
-– Financial Management (Undergraduate)
-– Investment Analysis and Portfolio Management (Undergraduate)
-
+Teaching Assistant, CUHK Business School, The Chinese University of Hong Kong 
+<br>
+- Empirical Asset Pricing (PhD)
+- Financial Management (Undergraduate)
+- Investment Analysis and Portfolio Management (Undergraduate)
 
 <br>
+
 
 ---
 
